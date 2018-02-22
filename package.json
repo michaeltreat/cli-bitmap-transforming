@@ -1,0 +1,27 @@
+{
+  "name": "cli-bitmap-transforming",
+  "version": "1.0.0",
+  "description": "building out a lab where we are transforming a bitmap through a command line.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeltreat/cli-bitmap-transforming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeltreat/cli-bitmap-transforming/issues"
+  },
+  "homepage": "https://github.com/michaeltreat/cli-bitmap-transforming#readme",
+  "devDependencies": {
+    "jest": "^22.4.0"
+  }
+}
